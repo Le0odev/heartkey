@@ -29,13 +29,13 @@ if(usuario.length <1 || senha.length <1){
     return false;
 }
 
-if(usuario == "admin" && senha == "admin"){
+if(usuario == "rebeca" && senha == "beca"){
 
     sucesso.style.display = ('inline')
 
     setTimeout(() => {
 
-    location.href = "http://127.0.0.1:5500/home/home.html";
+    location.href = "http://127.0.0.1:5500/Login-do-meu-coracao/home/home.html";
 
     }, 500);
     
