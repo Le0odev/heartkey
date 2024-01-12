@@ -29,3 +29,20 @@ img{
     width: 300px;
     border-radius: 20px;
 }
+
+a {
+    display: flex;
+    flex-direction: column;
+    
+        font-weight: bold;
+        padding: 10px;
+        font-size: 17px;
+        color: #0e0e13;
+        text-align: center;
+        border-radius: 5px; /* Reduzi o tamanho da borda para 5px */
+        background-color: #f22f70;
+        text-decoration: none; /* Remova a sublinhado padrão dos links */
+    
+    
+
+}

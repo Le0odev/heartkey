@@ -29,7 +29,7 @@ if(usuario.length <1 || senha.length <1){
     return false;
 }
 
-if(usuario == "rebeca" && senha == "beca"){
+if(usuario == "rebeca" && senha == "1612"){
 
     sucesso.style.display = ('inline')
 
@@ -45,7 +45,7 @@ if(usuario == "rebeca" && senha == "beca"){
 
     setTimeout(() => {
 
-        location.href = "http://127.0.0.1:5500/error/erro.html";
+        location.href = "http://127.0.0.1:5500/Login-do-meu-coracao/error/erro.html";
     
         }, 500);
 
