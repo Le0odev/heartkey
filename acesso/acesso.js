@@ -36,7 +36,7 @@ if(usuario == "rebeca" && senha == "1612"){
     setTimeout(() => {
 
     
-    window.location.replace("/Login-do-meu-coracao/home/index.html");
+    window.location.replace("/Login-do-meu-coracao/home/home.html");
     }, 500);
     
 } else{
@@ -46,7 +46,7 @@ if(usuario == "rebeca" && senha == "1612"){
     setTimeout(() => {
 
         
-        window.location.replace("/Login-do-meu-coracao/error/index.html");
+        window.location.replace("/Login-do-meu-coracao/error/home.html");
 
         }, 500);
 
