@@ -36,7 +36,7 @@ if(usuario == "rebeca" && senha == "1612"){
     setTimeout(() => {
 
     
-    window.location.replace("heartkey/home/index.html");
+    window.location.replace("home/index.html");
     }, 500);
     
 } else{
