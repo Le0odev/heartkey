@@ -35,7 +35,7 @@ if(usuario == "rebeca" && senha == "1612"){
 
     setTimeout(() => {
 
-    location.href = "https://heartkey.vercel.app//home/home.html";
+    location.href = "https://heartkey.vercel.app/Login-do-meu-coracao/home/home.html";
 
     }, 500);
     
@@ -45,7 +45,7 @@ if(usuario == "rebeca" && senha == "1612"){
 
     setTimeout(() => {
 
-        location.href = "https://heartkey.vercel.app//error/erro.html";
+        location.href = "https://heartkey.vercel.app/Login-do-meu-coracao/error/erro.html";
     
         }, 500);
 
