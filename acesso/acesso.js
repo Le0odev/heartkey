@@ -35,7 +35,7 @@ if(usuario == "rebeca" && senha == "1612"){
 
     setTimeout(() => {
 
-    location.href = "http://127.0.0.1:5500/Login-do-meu-coracao/home/home.html";
+    location.href = "http://127.0.0.1:5500/Login-do-meu-coracao/home/index.html";
 
     }, 500);
     
@@ -45,7 +45,7 @@ if(usuario == "rebeca" && senha == "1612"){
 
     setTimeout(() => {
 
-        location.href = "http://127.0.0.1:5500/Login-do-meu-coracao/error/erro.html";
+        location.href = "http://127.0.0.1:5500/Login-do-meu-coracao/error/index.html";
     
         }, 500);
 
